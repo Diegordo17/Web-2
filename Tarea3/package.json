@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "sass": "^1.57.1"
+  },
+  "name": "pagina-presentacion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"node .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "estilos": "sass src/sass:dist/css --no-source-map",
+    "estilos:dev": "sass src/sass:dist/css --watch --no-source-map",
+    "dev": "nodemon ."
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
