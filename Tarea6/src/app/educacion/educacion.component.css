@@ -1,0 +1,17 @@
+div{
+    background-color: cornflowerblue;
+    height: 200px;
+    text-align: center;
+}
+
+div ul{
+    padding-top: 10px;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}

@@ -1,0 +1,18 @@
+div{
+    background-color:deepskyblue;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+div ul{
+    padding-top: 10px;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
